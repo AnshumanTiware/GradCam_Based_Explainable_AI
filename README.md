@@ -1,6 +1,9 @@
 # GradCam_Based_Explainable_AI
 In this project, a CNN model has been trained to classify the type of scenery in an image. A technique called GradCam is used to locate the specific areas in the image which play a key role in 
-leading the model to make the classification decision. 
+leading the model to make the classification decision. The dataset for this project can be found here : 
+
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
 Following are the key learning objectives of this project:
 
 ## 1. Deep Learning Foundations:
